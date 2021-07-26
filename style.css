@@ -1,0 +1,24 @@
+body{
+    background: rgb(88, 88, 88);
+}
+.table_one{
+    width: 800px;
+    height: 30px;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 10px;
+}
+.td1{
+    border-bottom: 1px solid rgb(245, 245, 245);
+    color: #fff;
+}
+.td2{
+    border-bottom: 1px solid rgb(255, 255, 255);
+    color: #fff;
+}
+.td3{
+    border-bottom: 1px solid rgb(255, 255, 255);
+    color: #fff;
+}
+.img1{
+    width: 15px;
+}
